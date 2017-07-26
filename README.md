@@ -1,1 +1,2 @@
-# CreatorPro
+# MAC OS에서 CREATOR 보드 개발 환경 설정 및 사용법
+-  [Creator Pro Development Environment](http://docs.rakwireless.com/en/Wis%20Creator%20Pro/Software%20Development/CREATOR%20pro%20Development%20environment%20.pdf) 문서의 한글 번역본
